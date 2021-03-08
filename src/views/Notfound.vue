@@ -1,9 +1,7 @@
 <template>
   <div class="about">
     <Navbar msg="" />
-    <h1  class= "titulo">Cursos</h1>
-
-
+    <h1>Not Found</h1>
   </div>
 </template>
 <script>
